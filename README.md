@@ -94,3 +94,38 @@ The salary data suggests that the average salary is approximately 73.70k, with a
 
 ## Conclusion
 The data reveals a slight gender gap in departmental distribution, with certain departments having more male or female employees. However, the presence of employees with undisclosed gender makes it challenging to draw definitive conclusions about the gender gap. To accurately assess the gender gap, it would be necessary to identify the gender of the undisclosed employees. Nonetheless, based on the available data, there is a slight difference in gender representation across departments.
+
+### Gender Distribution
+- **Male Ratio**: 49% of the workforce
+- **Female Ratio**: 47% of the workforce
+- **Gender Pay Gap**: Potential pay gap due to department clustering, with females possibly overrepresented in lower-paying sectors like HR and Services.
+
+### Employee Ratings
+- **Majority Rating**: "Average" with 212 employees
+- **Lower Ratings**: "Very Good" (34), "Not Rated" (31), "Very Poor" (31)
+- **Female Ratings**: Large portion in "Average" or "Poor", possibly limiting recognition and progression.
+
+### Departmental Insights
+- **Top 5 Departments by Employee Count**: Legal (49), Product Management (47), Support (42), Sales (40), HR (38)
+- **Female Representation in Top Departments**: Services (42), Business Development (41), HR (41), Product Management (41), Engineering (38)
+- **Male High-Earners' Departments**: Legal, Support, Business Development, Product Management, Accounting
+
+### Salary Insights
+- **Total Employees**: 465
+- **Total Salary**: $35M
+- **Average Salary**: $74.79K
+- **Average Bonus**: 0.03
+- **Male Employees with Salary ≥ ₦90,000**: 152 employees, average salary ₦105.94K
+- **Female Employees with Salary ≥ ₦90,000**: 126 employees, average salary ₦105.19K
+
+### Location Distribution
+- **Female Presence**: Higher in Kaduna and Abuja, lower in Lagos
+- **Male High-Earners' Locations**: Kaduna (59), Abuja (53), Lagos (40)
+- **Female High-Earners' Locations**: Kaduna (47), Lagos (40), Abuja (39)
+
+### Key Observations
+- **Performance Ratings for Male High-Earners**: Symmetry between strong and weak ratings, suggesting pay may not always reflect performance.
+- **Geographic Distribution**: Balanced opportunity for female high-earners across regional offices.
+- **Departmental Spread for Female High-Earners**: Strong representation in strategic, technical, and people-oriented departments, indicating multi-dimensional contributions.
+
+This analysis highlights the gender distribution, salary insights, and departmental representation within Palmoria Group, providing a comprehensive overview of workforce dynamics and potential areas for improvement.
