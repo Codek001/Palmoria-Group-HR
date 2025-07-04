@@ -1,5 +1,5 @@
 # Palmoria-Group-HR
-The dashboard and the report provide insights and visualizations that will guide the management team in making informed decisions to promote gender equality within the organization.
+The dashboard and the report provide insights and visualizations that will guide the management team. This analysis highlights the gender distribution, salary insights, and departmental representation within Palmoria Group, providing a comprehensive overview of workforce dynamics and potential areas for improvement.
 ## Palmoria Group HR Analysis Report
 
 ## Backstory
@@ -26,6 +26,8 @@ These data cleaning steps were crucial in preparing the dataset for a comprehens
 # Analysis of Palmoria Group HR Data
 
 The Palmoria Group HR data provides insights into the distribution of employees based on gender, region, salary, and department. Below is a detailed analysis of the data presented in the dashboard.
+![Pal_male](https://github.com/user-attachments/assets/50041ea9-d34f-4344-918d-768143442800)
+![pal_female](https://github.com/user-attachments/assets/a20c4d5d-6d91-4953-97df-1a2716bcb441)
 
 ## Employee Distribution by Gender
 - **Total Employees**: 946
@@ -111,7 +113,7 @@ The data reveals a slight gender gap in departmental distribution, with certain 
 - **Male High-Earners' Departments**: Legal, Support, Business Development, Product Management, Accounting
 
 ### Salary Insights
-- **Total Employees**: 465
+- **Total Employees**: 292 employees meet the requirement of minimum of ₦90,000 salary. 
 - **Total Salary**: $35M
 - **Average Salary**: $74.79K
 - **Average Bonus**: 0.03
@@ -128,4 +130,4 @@ The data reveals a slight gender gap in departmental distribution, with certain 
 - **Geographic Distribution**: Balanced opportunity for female high-earners across regional offices.
 - **Departmental Spread for Female High-Earners**: Strong representation in strategic, technical, and people-oriented departments, indicating multi-dimensional contributions.
 
-This analysis highlights the gender distribution, salary insights, and departmental representation within Palmoria Group, providing a comprehensive overview of workforce dynamics and potential areas for improvement.
+
