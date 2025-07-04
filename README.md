@@ -130,7 +130,10 @@ The data reveals a slight gender gap in departmental distribution, with certain 
 ### Key Observations
 - **Performance Ratings for Male High-Earners**: Symmetry between strong and weak ratings, suggesting pay may not always reflect performance.
 - **Geographic Distribution**: Balanced opportunity for female high-earners across regional offices.
-- **Departmental Spread for Female High-Earners**: Strong representation in strategic, technical, and people-oriented departments, indicating multi-dimensional contributions.
+- **Departmental Spread for Female High-Earners**: Strong representation in strategic, technical, and people
+-oriented departments, indicating multi-dimensional contributions.
+![pal_salary_band](https://github.com/user-attachments/assets/7f2a11a5-f31b-43c5-96c4-65d5e0104fb4)
+
 
 ## Conclusion
 In conclusion, 
