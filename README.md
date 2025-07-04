@@ -49,8 +49,8 @@ The gender distribution shows a slight difference between male and female employ
 The regional distribution indicates a fairly balanced gender representation across the regions, with a small number of employees having undisclosed gender.
 
 ## Salary Analysis
-- **Total Salary**: 70 million
-- **Average Salary**: 73.70k
+- **Total Salary**: ₦70 million
+- **Average Salary**: ₦73.70k
 - **Average Bonus**: 0.03
 
 The salary data suggests that the average salary is approximately 73.70k, with a minimal average bonus.
@@ -97,9 +97,7 @@ The salary data suggests that the average salary is approximately 73.70k, with a
 - Accounting: 2
 - Marketing: 1
 - Product Management: 1
-
-## Conclusion
-The data reveals a slight gender gap in departmental distribution, with certain departments having more male or female employees. However, the presence of employees with undisclosed gender makes it challenging to draw definitive conclusions about the gender gap. To accurately assess the gender gap, it would be necessary to identify the gender of the undisclosed employees. Nonetheless, based on the available data, there is a slight difference in gender representation across departments.
+The data reveals a slight gender gap in departmental distribution, with certain departments having more male or female employees. 
 
 ### Gender Distribution
 - **Male Ratio**: 49% of the workforce
@@ -118,8 +116,8 @@ The data reveals a slight gender gap in departmental distribution, with certain 
 
 ### Salary Insights
 - **Total Employees**: 292 employees meet the requirement of minimum of ₦90,000 salary. 
-- **Total Salary**: $35M
-- **Average Salary**: $74.79K
+- **Total Salary**: ₦35M
+- **Average Salary**: ₦74.79K
 - **Average Bonus**: 0.03
 - **Male Employees with Salary ≥ ₦90,000**: 152 employees, average salary ₦105.94K
 - **Female Employees with Salary ≥ ₦90,000**: 126 employees, average salary ₦105.19K
@@ -134,4 +132,7 @@ The data reveals a slight gender gap in departmental distribution, with certain 
 - **Geographic Distribution**: Balanced opportunity for female high-earners across regional offices.
 - **Departmental Spread for Female High-Earners**: Strong representation in strategic, technical, and people-oriented departments, indicating multi-dimensional contributions.
 
+## Conclusion
+In conclusion, 
+However, the presence of employees with undisclosed gender makes it challenging to draw definitive conclusions about the gender gap. To accurately assess the gender gap, it would be necessary to identify the gender of the undisclosed employees. Nonetheless, based on the available data, there is a slight difference in gender representation across departments.
 
