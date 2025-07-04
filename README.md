@@ -26,7 +26,11 @@ These data cleaning steps were crucial in preparing the dataset for a comprehens
 # Analysis of Palmoria Group HR Data
 
 The Palmoria Group HR data provides insights into the distribution of employees based on gender, region, salary, and department. Below is a detailed analysis of the data presented in the dashboard.
+# Dashboard of Palmoria
+![pal_total](https://github.com/user-attachments/assets/fdd7d12a-19d3-46d9-918b-ad78ee2d2728)
+# Dashboard of Palmoria filter for male only
 ![Pal_male](https://github.com/user-attachments/assets/50041ea9-d34f-4344-918d-768143442800)
+# Dashboard of Palmoria filter for female only
 ![pal_female](https://github.com/user-attachments/assets/a20c4d5d-6d91-4953-97df-1a2716bcb441)
 
 ## Employee Distribution by Gender
